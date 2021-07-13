@@ -1,5 +1,5 @@
 # OhShape - Disable Good Walls
-A mod for OhShape that disables the 'good wall' sfx that plays when you successfully passed a wall.
+A mod for OhShape that disables the 'good wall' visual effect that is shown when you successfully passed a wall.
 
 ## Download
 Get the latest release from the [Project Releases](https://github.com/Shadnix-was-taken/OhShape-DisableGoodWalls/releases) page.
