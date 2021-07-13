@@ -22,7 +22,7 @@ Delete the DLL file of this mod from you `OhShape\Mods\` directory.
 ## Developers
 
 ### Contributing to Simple Song Info
-In order to build this project, you'll need to have OhShape and MelonLoader installed. In addition, please add a `SimpleSongInfo.csproj.user` file in the project directory and specify where your game is located on your disk:
+In order to build this project, you'll need to have OhShape and MelonLoader installed. In addition, please add a `DisableGoodWalls.csproj.user` file in the project directory and specify where your game is located on your disk:
 
 ```xml
 <?xml version="1.0" encoding="utf-8"?>
